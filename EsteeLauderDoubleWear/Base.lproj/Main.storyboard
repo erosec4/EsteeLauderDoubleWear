@@ -35,21 +35,22 @@
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="_________________________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nZA-kc-SDx">
-                                        <rect key="frame" x="96" y="504" width="222" height="21"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;It feels like you aren't wearing anything&quot;" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KIF-m6-fcj">
+                                        <rect key="frame" x="31" y="771" width="352" height="62"/>
+                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="22"/>
+                                        <color key="textColor" red="0.1176327839" green="0.1176561788" blue="0.117627643" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Total coverage and long lasting&quot;" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hlv-dM-Afx">
+                                        <rect key="frame" x="31" y="619" width="352" height="67"/>
+                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="22"/>
+                                        <color key="textColor" red="0.1176327839" green="0.1176561788" blue="0.117627643" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="_________________________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nZA-kc-SDx">
+                                        <rect key="frame" x="96" y="492" width="222" height="21"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;It feels like you aren't wearing anything&quot;" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KIF-m6-fcj">
-                                        <rect key="frame" x="31" y="760" width="352" height="54"/>
-                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="19"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Total coverage and long lasting&quot;" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hlv-dM-Afx">
-                                        <rect key="frame" x="59" y="628" width="297" height="47"/>
-                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="19"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
@@ -60,61 +61,67 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Real Reviews" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uxG-an-eJf">
-                                        <rect key="frame" x="135" y="546" width="144" height="30"/>
-                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="25"/>
+                                        <rect key="frame" x="129" y="547" width="156" height="30"/>
+                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="27"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Stays on all day and looks great with minimal to no touch ups&quot;" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="U7l-N0-iGE">
-                                        <rect key="frame" x="31" y="692" width="352" height="60"/>
-                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="19"/>
-                                        <nil key="textColor"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Stays on all day and looks great with minimal to no touch ups&quot;" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="U7l-N0-iGE">
+                                        <rect key="frame" x="31" y="694" width="352" height="60"/>
+                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="22"/>
+                                        <color key="textColor" red="0.1176327839" green="0.1176561788" blue="0.117627643" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Did not crease or cake up, colour stayed true. I'm impressed!&quot;" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yc1-fX-Nqm">
-                                        <rect key="frame" x="54" y="822" width="306" height="55"/>
-                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="19"/>
-                                        <nil key="textColor"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="[                  ]" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ApK-xK-KVr">
+                                        <rect key="frame" x="30" y="511" width="355" height="120"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="80"/>
+                                        <color key="textColor" red="0.5971177662753866" green="0.57444240806239721" blue="0.57444240806239721" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Did not crease or cake up, colour stayed true. I'm impressed!&quot;" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yc1-fX-Nqm">
+                                        <rect key="frame" x="24" y="830" width="367" height="97"/>
+                                        <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="22"/>
+                                        <color key="textColor" red="0.1176327839" green="0.1176561788" blue="0.117627643" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
                                 <color key="backgroundColor" red="0.90931624170000003" green="0.84318351749999998" blue="0.84913855790000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
+                                    <constraint firstItem="uxG-an-eJf" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="129" id="0KY-bO-eqs"/>
                                     <constraint firstItem="742-g5-20k" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="392" id="0XH-RB-dGe"/>
-                                    <constraint firstAttribute="trailing" secondItem="nZA-kc-SDx" secondAttribute="trailing" constant="96" id="0fE-xa-hKY"/>
-                                    <constraint firstAttribute="bottom" secondItem="KIF-m6-fcj" secondAttribute="bottom" constant="113" id="0ky-7S-SNV"/>
-                                    <constraint firstItem="hlv-dM-Afx" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="59" id="35I-CK-lNK"/>
                                     <constraint firstAttribute="bottom" secondItem="d91-6f-lIC" secondAttribute="bottom" constant="307" id="3oA-JI-xaw"/>
-                                    <constraint firstAttribute="trailing" secondItem="hlv-dM-Afx" secondAttribute="trailing" constant="58" id="58d-A7-ERw"/>
-                                    <constraint firstItem="nZA-kc-SDx" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="96" id="5uH-FE-LBG"/>
+                                    <constraint firstAttribute="bottom" secondItem="yc1-fX-Nqm" secondAttribute="bottom" id="45L-YA-Qhj"/>
+                                    <constraint firstAttribute="bottom" secondItem="KIF-m6-fcj" secondAttribute="bottom" constant="94" id="7VZ-xI-yCd"/>
+                                    <constraint firstAttribute="trailing" secondItem="hlv-dM-Afx" secondAttribute="trailing" constant="31" id="BjP-tR-4Mg"/>
+                                    <constraint firstItem="KIF-m6-fcj" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="31" id="CmG-hX-zrb"/>
+                                    <constraint firstAttribute="trailing" secondItem="yc1-fX-Nqm" secondAttribute="trailing" constant="23" id="DEb-yf-1lz"/>
+                                    <constraint firstAttribute="bottom" secondItem="ApK-xK-KVr" secondAttribute="bottom" constant="296" id="GoB-3q-6E1"/>
                                     <constraint firstItem="742-g5-20k" firstAttribute="leading" secondItem="Wsg-dL-nT9" secondAttribute="leading" constant="16" id="Gpm-9j-UE1"/>
-                                    <constraint firstAttribute="bottom" secondItem="yc1-fX-Nqm" secondAttribute="bottom" constant="50" id="JjB-Ep-giV"/>
-                                    <constraint firstAttribute="bottom" secondItem="hlv-dM-Afx" secondAttribute="bottom" constant="252" id="JzB-cg-jQR"/>
-                                    <constraint firstAttribute="bottom" secondItem="nZA-kc-SDx" secondAttribute="bottom" constant="402" id="KKc-gQ-JAX"/>
-                                    <constraint firstItem="yc1-fX-Nqm" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="54" id="Nnx-kF-gXz"/>
-                                    <constraint firstItem="KIF-m6-fcj" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="760" id="Oou-q1-6cK"/>
-                                    <constraint firstAttribute="bottom" secondItem="U7l-N0-iGE" secondAttribute="bottom" constant="175" id="Tp5-eO-sSI"/>
-                                    <constraint firstItem="KIF-m6-fcj" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="31" id="Uel-zC-jMJ"/>
-                                    <constraint firstItem="nZA-kc-SDx" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="504" id="WWX-rA-fyL"/>
+                                    <constraint firstAttribute="bottom" secondItem="hlv-dM-Afx" secondAttribute="bottom" constant="241" id="IHk-NR-g0s"/>
+                                    <constraint firstAttribute="trailing" secondItem="U7l-N0-iGE" secondAttribute="trailing" constant="31" id="LeC-Ro-dyZ"/>
+                                    <constraint firstItem="yc1-fX-Nqm" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="24" id="N80-Bz-M7v"/>
+                                    <constraint firstItem="yc1-fX-Nqm" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="830" id="NY4-dT-zNA"/>
+                                    <constraint firstAttribute="trailing" secondItem="KIF-m6-fcj" secondAttribute="trailing" constant="31" id="QSU-8G-rBa"/>
+                                    <constraint firstItem="U7l-N0-iGE" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="31" id="TQm-PB-Te1"/>
                                     <constraint firstAttribute="trailing" secondItem="vh6-sc-1X7" secondAttribute="trailing" constant="-41" id="Wvd-n2-s0s"/>
-                                    <constraint firstItem="uxG-an-eJf" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="546" id="XHZ-Kt-RI6"/>
-                                    <constraint firstAttribute="trailing" secondItem="yc1-fX-Nqm" secondAttribute="trailing" constant="54" id="Xwn-ZS-gvq"/>
                                     <constraint firstItem="d91-6f-lIC" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="576" id="Xz4-lO-VyL"/>
-                                    <constraint firstAttribute="trailing" secondItem="KIF-m6-fcj" secondAttribute="trailing" constant="31" id="Y3V-wS-6Ib"/>
-                                    <constraint firstItem="uxG-an-eJf" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="135" id="YHd-St-GeN"/>
+                                    <constraint firstItem="uxG-an-eJf" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="547" id="ZIo-YP-mo5"/>
                                     <constraint firstItem="Wsg-dL-nT9" firstAttribute="trailing" secondItem="742-g5-20k" secondAttribute="trailing" constant="15" id="ZvE-l6-G6E"/>
-                                    <constraint firstAttribute="trailing" secondItem="uxG-an-eJf" secondAttribute="trailing" constant="135" id="aNo-eY-lS3"/>
-                                    <constraint firstItem="hlv-dM-Afx" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="628" id="bxT-6g-e8u"/>
+                                    <constraint firstItem="hlv-dM-Afx" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="619" id="an4-ap-E4l"/>
                                     <constraint firstItem="d91-6f-lIC" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="132" id="eFx-61-Jje"/>
                                     <constraint firstAttribute="bottom" secondItem="vh6-sc-1X7" secondAttribute="bottom" constant="536" id="gAo-3l-BCg"/>
-                                    <constraint firstAttribute="trailing" secondItem="U7l-N0-iGE" secondAttribute="trailing" constant="31" id="gb1-ME-zTV"/>
-                                    <constraint firstItem="U7l-N0-iGE" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="31" id="izt-WP-FWu"/>
+                                    <constraint firstItem="ApK-xK-KVr" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="511" id="gae-f9-Jmu"/>
+                                    <constraint firstAttribute="trailing" secondItem="uxG-an-eJf" secondAttribute="trailing" constant="129" id="izx-7g-QKw"/>
+                                    <constraint firstItem="U7l-N0-iGE" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="694" id="jZn-VD-kNh"/>
                                     <constraint firstAttribute="bottom" secondItem="742-g5-20k" secondAttribute="bottom" constant="409" id="kft-87-cZk"/>
+                                    <constraint firstAttribute="bottom" secondItem="U7l-N0-iGE" secondAttribute="bottom" constant="173" id="lH4-mq-hmQ"/>
+                                    <constraint firstItem="hlv-dM-Afx" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="31" id="lSc-v0-j41"/>
                                     <constraint firstAttribute="trailing" secondItem="d91-6f-lIC" secondAttribute="trailing" constant="132" id="lsH-cL-fKX"/>
-                                    <constraint firstItem="U7l-N0-iGE" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="692" id="lwu-og-TM2"/>
-                                    <constraint firstAttribute="bottom" secondItem="uxG-an-eJf" secondAttribute="bottom" constant="351" id="mC4-Oc-SzP"/>
+                                    <constraint firstItem="KIF-m6-fcj" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="771" id="m8h-fe-Xw8"/>
+                                    <constraint firstAttribute="trailing" secondItem="ApK-xK-KVr" secondAttribute="trailing" constant="29" id="mOK-FM-G83"/>
                                     <constraint firstItem="vh6-sc-1X7" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="-41" id="mtQ-eq-Hwt"/>
-                                    <constraint firstItem="yc1-fX-Nqm" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="822" id="oWM-Il-XG5"/>
+                                    <constraint firstAttribute="bottom" secondItem="uxG-an-eJf" secondAttribute="bottom" constant="350" id="nYv-sk-hD7"/>
+                                    <constraint firstItem="ApK-xK-KVr" firstAttribute="leading" secondItem="CZ7-nv-IM0" secondAttribute="leading" constant="30" id="nkV-2i-rMA"/>
                                     <constraint firstItem="vh6-sc-1X7" firstAttribute="top" secondItem="CZ7-nv-IM0" secondAttribute="top" constant="20" id="sy3-RU-jOX"/>
                                 </constraints>
                                 <viewLayoutGuide key="contentLayoutGuide" id="uuP-DQ-VaY"/>
@@ -176,7 +183,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-126" y="116"/>
+            <point key="canvasLocation" x="-126.08695652173914" y="115.51339285714285"/>
         </scene>
         <!--shadesView-->
         <scene sceneID="C4p-TX-D7c">
