@@ -16,7 +16,6 @@
 		95119B3026A683DB00A34DCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95119B2E26A683DB00A34DCF /* LaunchScreen.storyboard */; };
 		95119B3826A697DE00A34DCF /* ShadesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95119B3726A697DD00A34DCF /* ShadesViewController.swift */; };
 		95119B3A26A6980A00A34DCF /* LearnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95119B3926A6980A00A34DCF /* LearnViewController.swift */; };
-		95C450F626A92959002C2185 /* DataCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C450F526A92959002C2185 /* DataCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		95119B3126A683DB00A34DCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95119B3726A697DD00A34DCF /* ShadesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadesViewController.swift; sourceTree = "<group>"; };
 		95119B3926A6980A00A34DCF /* LearnViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnViewController.swift; sourceTree = "<group>"; };
-		95C450F526A92959002C2185 /* DataCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,7 +67,6 @@
 				95119B2426A683D200A34DCF /* ViewController.swift */,
 				95119B2626A683D200A34DCF /* Main.storyboard */,
 				95119B3926A6980A00A34DCF /* LearnViewController.swift */,
-				95C450F526A92959002C2185 /* DataCollectionViewCell.swift */,
 				95119B3726A697DD00A34DCF /* ShadesViewController.swift */,
 				95119B2C26A683DB00A34DCF /* Assets.xcassets */,
 				95119B2E26A683DB00A34DCF /* LaunchScreen.storyboard */,
@@ -154,7 +151,6 @@
 				95119B2126A683D200A34DCF /* AppDelegate.swift in Sources */,
 				95119B2326A683D200A34DCF /* SceneDelegate.swift in Sources */,
 				95119B2B26A683D200A34DCF /* EsteeLauderDoubleWear.xcdatamodeld in Sources */,
-				95C450F626A92959002C2185 /* DataCollectionViewCell.swift in Sources */,
 				95119B3A26A6980A00A34DCF /* LearnViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

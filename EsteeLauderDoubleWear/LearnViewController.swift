@@ -7,34 +7,28 @@
 
 import UIKit
 
-class LearnViewController: UIViewController {
-
-    @IBOutlet weak var sliderCollectionView: UICollectionView!
-    @IBOutlet weak var pageView: UIPageControl!
+class LearnViewController: UIViewController { //, UICollectionViewDelegate, UICollectionViewDataSource {
     
-    var imageNames = [ "EL5",
-                       "EL8.2",
-                       "EL9"
-    ]
+    
+    @IBOutlet weak var collectionView: UICollectionView!
+    @IBOutlet weak var imageInCell: UIImageView!
+    var imageNames = ["EL5", "EL9", "EL8.2", "EL2", "EL12", "EL16"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        /* collectionView.delegate = self
+        collectionView.dataSource = self
     }
     
-}
-
-extension LearnViewController: UICollectionViewDelegateFlowLayout {
-    
-    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return imageNames.count
+    func numberOfSections(in collectionView: UICollectionView) -> Int {
+        return 6
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath) as? DataCollectionViewCell
-        cell?.img.image = UIImage(named: imageNames[indexPath.row])
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath)
         
-        return cell!
+        //cell.imageInCell = imageNames[indexPath.row] */
     }
+    
 }
