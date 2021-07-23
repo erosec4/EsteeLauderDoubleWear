@@ -16,6 +16,8 @@
 		95119B3026A683DB00A34DCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95119B2E26A683DB00A34DCF /* LaunchScreen.storyboard */; };
 		95119B3826A697DE00A34DCF /* ShadesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95119B3726A697DD00A34DCF /* ShadesViewController.swift */; };
 		95119B3A26A6980A00A34DCF /* LearnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95119B3926A6980A00A34DCF /* LearnViewController.swift */; };
+		953CC41826AA2CDF008A0732 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CC41626AA2CDF008A0732 /* MyTableViewCell.swift */; };
+		953CC41926AA2CDF008A0732 /* MyTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 953CC41726AA2CDF008A0732 /* MyTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		95119B3126A683DB00A34DCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95119B3726A697DD00A34DCF /* ShadesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadesViewController.swift; sourceTree = "<group>"; };
 		95119B3926A6980A00A34DCF /* LearnViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnViewController.swift; sourceTree = "<group>"; };
+		953CC41626AA2CDF008A0732 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
+		953CC41726AA2CDF008A0732 /* MyTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				95119B2226A683D200A34DCF /* SceneDelegate.swift */,
 				95119B2426A683D200A34DCF /* ViewController.swift */,
 				95119B2626A683D200A34DCF /* Main.storyboard */,
+				953CC41626AA2CDF008A0732 /* MyTableViewCell.swift */,
+				953CC41726AA2CDF008A0732 /* MyTableViewCell.xib */,
 				95119B3926A6980A00A34DCF /* LearnViewController.swift */,
 				95119B3726A697DD00A34DCF /* ShadesViewController.swift */,
 				95119B2C26A683DB00A34DCF /* Assets.xcassets */,
@@ -134,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95119B3026A683DB00A34DCF /* LaunchScreen.storyboard in Resources */,
+				953CC41926AA2CDF008A0732 /* MyTableViewCell.xib in Resources */,
 				95119B2D26A683DB00A34DCF /* Assets.xcassets in Resources */,
 				95119B2826A683D200A34DCF /* Main.storyboard in Resources */,
 			);
@@ -146,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				953CC41826AA2CDF008A0732 /* MyTableViewCell.swift in Sources */,
 				95119B2526A683D200A34DCF /* ViewController.swift in Sources */,
 				95119B3826A697DE00A34DCF /* ShadesViewController.swift in Sources */,
 				95119B2126A683D200A34DCF /* AppDelegate.swift in Sources */,
